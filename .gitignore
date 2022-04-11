@@ -1,0 +1,8 @@
+.*
+!.revive.toml
+!.gitignore
+
+*.out
+*.test
+*.prof
+*.html
